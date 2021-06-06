@@ -6,6 +6,7 @@ Getting new features everyday.
 
 ![Screenshot_20210606-211830_Expo Go](https://user-images.githubusercontent.com/73407426/120931561-bfb9e500-c70f-11eb-9819-05c777d45e4a.jpg)
 
-![Screenshot_20210606-211843_Expo Go](https://user-images.githubusercontent.com/73407426/120931572-ccd6d400-c70f-11eb-8357-f3bfb60941b4.jpg)
-
 ![Screenshot_20210606-211855_Expo Go](https://user-images.githubusercontent.com/73407426/120931581-d52f0f00-c70f-11eb-9ebf-1596c9ccabbd.jpg)
+
+
+![Screenshot_20210606-211902_Expo Go](https://user-images.githubusercontent.com/73407426/120931613-f1cb4700-c70f-11eb-814b-a591eb10ec22.jpg)
